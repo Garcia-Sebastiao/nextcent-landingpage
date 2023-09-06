@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+@font-face {
+  font-family: interMedium;
+  src: url("../assets/fonts/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: interSemiBold;
+  src: url("../assets/fonts/Inter-SemiBold.ttf");
+}
+@font-face {
+  font-family: interRegular;
+  src: url("../assets/fonts/Inter-Regular.ttf");
+}
+
+*{
+  font-family: interRegular;
+}

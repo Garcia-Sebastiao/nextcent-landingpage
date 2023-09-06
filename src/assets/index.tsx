@@ -19,7 +19,7 @@ import icon7 from "./svg/icon-7.svg";
 import whiteRight from "./svg/whiteRight.svg";
 import greenRight from "./svg/green-right.svg";
 
-import illustration1 from "./svg/illustration.svg";
+import illustration1 from "./svg/illustration-1.svg";
 import illustration2 from "./svg/illustration-2.svg";
 import illustration3 from "./svg/illustration-3.svg";
 
